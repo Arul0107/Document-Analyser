@@ -1,0 +1,18 @@
+# Ignore environment files
+.env
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore temp storage or media folders (if any)
+temp_storage/
+media/
+
+# Ignore virtual environments
+venv/
+my_env/
+
+# Ignore logs and other unnecessary files
+*.log
